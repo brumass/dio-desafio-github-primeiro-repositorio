@@ -1,2 +1,3 @@
-# dio-desafio-github-primeiro-repositorio
-Desafio de projeto Git/GitHub bootcamp Dio Phillips
+# Repositório do Desafio Git/GitHub 
+
+Participação no Philips Fullstack Developer | You Are You
